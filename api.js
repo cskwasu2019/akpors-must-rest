@@ -76,7 +76,6 @@ module.exports = function apiRouter() {
       single: 'proverb',
     },
   }
-
   for (const [route, routeData] of Object.entries(routes)) {
     router.get(`/${route}/`, getResouces.bind(this, route, routeData.data))
     router.get(
@@ -84,6 +83,14 @@ module.exports = function apiRouter() {
       getSingleResource.bind(this, routeData.single, routeData.data)
     )
   }
+
+  router.all('/ping', function (_, res) {
+    res.json({
+      jokes_items_count: routes.jokes.data.length,
+      motivation_items_count: routes.motivations.data.length,
+      proverbs_items_count: routes.proverbs.data.length,
+    })
+  })
 
   router.get('*', (_, res) => {
     res.status(404)
