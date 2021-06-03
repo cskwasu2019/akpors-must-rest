@@ -6,6 +6,7 @@
   "description": "Apkors Must Rest - Online Joke, Motivation and Proverb Generator",
   "main": "index.js",
   "homepage": "https://akpors-must-rest.herokuapp.com",
+  "github_repo_page": "https://github.com/cskwasu2019/akpors-must-rest/",
   "scripts": {
     "dev": "webpack serve --open",
     "build": "cross-env NODE_ENV=production webpack"
