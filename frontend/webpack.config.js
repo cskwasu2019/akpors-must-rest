@@ -102,7 +102,7 @@ module.exports = function () {
         description: package.description,
         background_color: appBGColor,
         theme_color: appBGColor,
-        display: 'browser',
+        display: 'standalone',
         inject: true,
         ios: true,
         orientation: 'portrait',
