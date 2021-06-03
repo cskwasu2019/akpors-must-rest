@@ -1,0 +1,1182 @@
+[
+  {
+    "id": 1,
+    "proverb": "Man wey naked no dey put hand for pocket.",
+    "moral": "You can’t do somethings if there's are no certain conditions."
+  },
+  {
+    "id": 3,
+    "proverb": "Chicken wey run way from borno go Ibadan go still end up inside  pot of soup.",
+    "moral": "You can’t run away from your destiny."
+  },
+  {
+    "id": 5,
+    "proverb": "Today’s newspaper na tomorrow suya wrap.",
+    "moral": "Keep calm, nothing last forever."
+  },
+  {
+    "id": 7,
+    "proverb": "Cow wey dey in a hurry to go America go come back as corn beef.",
+    "moral": "Just be patient, let the game come to you. Don’t rush."
+  },
+  {
+    "id": 9,
+    "proverb": "Akara and moin moin get the same parent na wetin dey pass through make dem diffrent.",
+    "moral": "How you start doesn’t matter, what matters is how you finish."
+  },
+  {
+    "id": 11,
+    "proverb": "To piss no hard but fowl no fit.",
+    "moral": "It’s easy doesn’t mean everyone can do it."
+  },
+  {
+    "id": 13,
+    "proverb": "No matter how dark room wan be, man go still locate woman breast.",
+    "moral": "There is always a way when something matters much."
+  },
+  {
+    "id": 15,
+    "proverb": "Custard na just pap wey jand.",
+    "moral": "Appearances are often misleading. – Looks are decieving."
+  },
+  {
+    "id": 17,
+    "proverb": "Wetin concern agbero with twitter handle or malu with face cap?",
+    "moral": "Mind your business."
+  },
+  {
+    "id": 19,
+    "proverb": "If life dey show you pepper my guy make pepper soup.",
+    "moral": "Make something good out of a bad experience."
+  },
+  {
+    "id": 21,
+    "proverb": "I get am before no be property",
+    "moral": "Stop living in the past and start living in the present."
+  },
+  {
+    "id": 23,
+    "proverb": "If person too tey for party e go follow dem wash plate.",
+    "moral": "Don’t outstay your welcome."
+  },
+  {
+    "id": 25,
+    "proverb": "Rolling stone, of course na person push am now.",
+    "moral": "There is always a reason for something."
+  },
+  {
+    "id": 27,
+    "proverb": "Craze no hard to form, na the trekking be wahala.",
+    "moral": "Easier said than done."
+  },
+  {
+    "id": 29,
+    "proverb": "No matter how hot your tempa be, e no fit  boil beans.",
+    "moral": "Calm down, your temper won’t solve the problem."
+  },
+  {
+    "id": 31,
+    "proverb": "Every mallam with im own kettle, every aboki with im own radio.",
+    "moral": "Every man for himself."
+  },
+  {
+    "id": 33,
+    "proverb": "You no need cutlery to chop slap.",
+    "moral": "Embarrassing situation happens without ones permission."
+  },
+  {
+    "id": 35,
+    "proverb": "Opolo eye no be open eye.",
+    "moral": "Having Big eyes doesn’t make you civilised."
+  },
+  {
+    "id": 37,
+    "proverb": "Leave matter for Mathias and Sabi for Sabinus.",
+    "moral": "Let sleeping dog lie."
+  },
+  {
+    "id": 39,
+    "proverb": "Bring suya, bring suya…. na cow body dey suffer am.",
+    "moral": "Every action has a consequence."
+  },
+  {
+    "id": 41,
+    "proverb": "E go better na e go better, na im make ibo man still dey Kano.",
+    "moral": "When there is hope, there is life."
+  },
+  {
+    "id": 43,
+    "proverb": "Escort me, escort me, na im slave trade take start.",
+    "moral": "Serious things sometimes start like joke."
+  },
+  {
+    "id": 45,
+    "proverb": "Na from play play dem dey form PLAYER.",
+    "moral": "Serious things sometimes start like joke."
+  },
+  {
+    "id": 47,
+    "proverb": "Pikin wen use agbada take start guy go talk wetin e go wear wen e old.",
+    "moral": "Slow and steady wins the race."
+  },
+  {
+    "id": 49,
+    "proverb": "The water wey dem use take make eba no go even come back.",
+    "moral": "Don’t cry over spilt milk."
+  },
+  {
+    "id": 51,
+    "proverb": "Nearly no dey kill bird.",
+    "moral": "It’s  either you have it or you don’t."
+  },
+  {
+    "id": 53,
+    "proverb": "Fly wey no get special adviser na im dey folow dead body enter grave.",
+    "moral": "Don’t stay ignorant, a word is enough for the wise."
+  },
+  {
+    "id": 55,
+    "proverb": "No matter how lizard dey do press up e no go get chest like aligator.",
+    "moral": "Be proud of who you are."
+  },
+  {
+    "id": 57,
+    "proverb": "The cassava today fit be garri tomorrow.",
+    "moral": "No condition is permanent."
+  },
+  {
+    "id": 59,
+    "proverb": "If mad man don beat ur mama before, if she see mechanic she go run.",
+    "moral": "Once beaten twice shy."
+  },
+  {
+    "id": 61,
+    "proverb": "Jollof rice wey dey for the bottom of pot today, go dey for top of cooler tommorow.",
+    "moral": "No condition is permanent."
+  },
+  {
+    "id": 63,
+    "proverb": "Fowl wey they carry for head no dey know say to waka na work.",
+    "moral": "A dependent would not know the value of what he/she is enjoying."
+  },
+  {
+    "id": 65,
+    "proverb": "Na from clap dance dey start.",
+    "moral": "Big thing don’t happen suddenly."
+  },
+  {
+    "id": 67,
+    "proverb": "Cockroach wey dey form swagger, if e summersault reach fowl place im no go leave to tell him story.",
+    "moral": "Know your boundaries."
+  },
+  {
+    "id": 69,
+    "proverb": "Person wey borrow cloth go party, no dey dance too much.",
+    "moral": "Learn to use other people's things carefully."
+  },
+  {
+    "id": 71,
+    "proverb": "Who read na im serious, who pass na im know book.",
+    "moral": "People only care about the successful ones."
+  },
+  {
+    "id": 73,
+    "proverb": "weda nyansh face east or west, na still back e go dey.",
+    "moral": "Somethings in life can be changed."
+  },
+  {
+    "id": 75,
+    "proverb": "The fly wey perch on top butter think say im be butterfly.",
+    "moral": "Be realistic, don't deceive yourself."
+  },
+  {
+    "id": 77,
+    "proverb": "A bird in hand, na better suya be that.",
+    "moral": "Make do of your current situation."
+  },
+  {
+    "id": 79,
+    "proverb": "Pikin wey say him mama no go sleep, na orphanage home fit am.",
+    "moral": "Value what you have while you still have it."
+  },
+  {
+    "id": 81,
+    "proverb": "The journey of a thousand miles, beta make u go airport go take flight.",
+    "moral": "Don't give yourself unnecessary stress."
+  },
+  {
+    "id": 83,
+    "proverb": "The difference between kpekere and plantain chips na packaging.",
+    "moral": "Don’t judge based on appearance alone."
+  },
+  {
+    "id": 85,
+    "proverb": "Wetin you dey find for sokoto dey for shokoto.",
+    "moral": "The grass is not always greener on the other side."
+  },
+  {
+    "id": 87,
+    "proverb": "Better soup na money kill am.",
+    "moral": "Luxury isn’t cheap. The good things in life don’t come cheap."
+  },
+  {
+    "id": 89,
+    "proverb": "Pikin wey say im mama no go sleep, no go sleep too.",
+    "moral": "If you ferment trouble, you will also be a partaker of the trouble."
+  },
+  {
+    "id": 91,
+    "proverb": "No matter how tall Okra grow e no go tall pass im owner.",
+    "moral": "No servant is greater than his or her master."
+  },
+  {
+    "id": 93,
+    "proverb": "One day, breeze go blow and fowl yansh go open.",
+    "moral": "Nothing can remain hidden forever, the truth always comes out."
+  },
+  {
+    "id": 95,
+    "proverb": "E don tey wey nyash dey for back.",
+    "moral": "There is nothing new under the sun."
+  },
+  {
+    "id": 97,
+    "proverb": "Monkey no dey born fowl.",
+    "moral": "Like begets like."
+  },
+  {
+    "id": 99,
+    "proverb": "Cunny man die, cunny man bury am.",
+    "moral": "It takes a thief to catch a thief."
+  },
+  {
+    "id": 101,
+    "proverb": "Everybody answer your papa surname.",
+    "moral": "Speak for yourself alone."
+  },
+  {
+    "id": 103,
+    "proverb": "Na condition make crayfish bend.",
+    "moral": "When one is forced to do the unthinkable in certain circumstances."
+  },
+  {
+    "id": 105,
+    "proverb": "The difference between puff-puff and doughnut na packaging.",
+    "moral": "Don't judge based on appearance alone."
+  },
+  {
+    "id": 107,
+    "proverb": "No be today yansh dey back.",
+    "moral": "The more things change, the more they remain the same."
+  },
+  {
+    "id": 109,
+    "proverb": "At all, at all na winsh.",
+    "moral": "Half bread is better than none."
+  },
+  {
+    "id": 111,
+    "proverb": "At all, at all na im bad pass.",
+    "moral": "Half a loaf is better than none."
+  },
+  {
+    "id": 113,
+    "proverb": "Who no go, no know.",
+    "moral": "Experience is the best teacher."
+  },
+  {
+    "id": 115,
+    "proverb": "No be the way dem take dey drink water dem dey drink pepper soup.",
+    "moral": "Adapt your plans to new situations."
+  },
+  {
+    "id": 117,
+    "proverb": "Who dey cry dey see road.",
+    "moral": "Use common sense even in sorrow."
+  },
+  {
+    "id": 119,
+    "proverb": "I no gree, I no gree na im dey tear trouser.",
+    "moral": "Avoid conflict from the beginning, know when to let go."
+  },
+  {
+    "id": 121,
+    "proverb": "Na cooperation make rice dey full pot.",
+    "moral": "You can achieve more with team work."
+  },
+  {
+    "id": 123,
+    "proverb": "\"Feel at home\" na im dey make visitor spoil TV remote.",
+    "moral": "Don't be too comfortable to the extent of fiddling with other people's property."
+  },
+  {
+    "id": 125,
+    "proverb": "Small pikin wey talk say e go shake iroko tree, na im head e go shake.",
+    "moral": "Know  your limits."
+  },
+  {
+    "id": 127,
+    "proverb": "Who get big teeth must get big mouth to cover am.",
+    "moral": "Be ready to solve your own problem."
+  },
+  {
+    "id": 129,
+    "proverb": "Na person wey leave door open na im goat dey enter im house go sleep",
+    "moral": "People below you will naturally take advantage of you if you leave the opportunity."
+  },
+  {
+    "id": 131,
+    "proverb": "Awoof dey run belle.",
+    "moral": "Be contented with what you have."
+  },
+  {
+    "id": 133,
+    "proverb": "Na where dey pain person, na im person dey put for near fire.",
+    "moral": "Justifying drastic action. Take whatever action necessary to resolve an issue."
+  },
+  {
+    "id": 135,
+    "proverb": "Until man marry new wife, im no go know say d first wife na angel.",
+    "moral": "The grass is not always greener on the other side."
+  },
+  {
+    "id": 137,
+    "proverb": "If person too tay for toilet, im go forget say shit dey smell. ",
+    "moral": "When doing something, don't waste time beyond necessary."
+  },
+  {
+    "id": 139,
+    "proverb": "Person no dey break glass for party wey dem no invite am",
+    "moral": "Advice – do not draw attention to yourself in unfamiliar surroundings."
+  },
+  {
+    "id": 141,
+    "proverb": "You fit give coat to house boy make im wear... but houseboy go always be houseboy.",
+    "moral": "You can't make a silk purse out of a sow's ear."
+  },
+  {
+    "id": 143,
+    "proverb": "Everyday for thief, one day for the owner",
+    "moral": "Bad deeds will always be exposed... someday, sometime."
+  },
+  {
+    "id": 145,
+    "proverb": "Fine girl be like flower, everybody want am. If im no quick choose, im beauty go fade and nobody go want am.",
+    "moral": "It is best to strike while the iron is hot."
+  },
+  {
+    "id": 147,
+    "proverb": "If girl take husband do boyfriend, she go take boyfriend do husband.",
+    "moral": "Strike while the iron is hot."
+  },
+  {
+    "id": 149,
+    "proverb": "No mata how im pain person, person no fit cry follow dead body enta grave.",
+    "moral": "No matter how painful the situation is, life goes on"
+  },
+  {
+    "id": 151,
+    "proverb": "Wen pikin start to shout for him papa back.... You go don know say im don dey do the tin wey papa and mama dey do.",
+    "moral": "Sudden bad behaviour from a child is likely to be as a result of deeper issues."
+  },
+  {
+    "id": 153,
+    "proverb": "Dem no dey tell old person say im mouth dey smell.",
+    "moral": "Always respect your elders."
+  },
+  {
+    "id": 155,
+    "proverb": "Oba no dey go transfer.",
+    "moral": "One’s birth right is not transferrable."
+  },
+  {
+    "id": 157,
+    "proverb": "Dirty water dey quench fire.",
+    "moral": "A drowning man will clutch at straw."
+  },
+  {
+    "id": 159,
+    "proverb": "Water no get enemy.",
+    "moral": "Acceptance! Some things do not need much deliberation."
+  },
+  {
+    "id": 161,
+    "proverb": "Old man wey dey carry small girl no suppose complain when the girl slap am for public.",
+    "moral": "Familiarity breeds contempt."
+  },
+  {
+    "id": 163,
+    "proverb": "Farmer wey sleep for planting season go surely hungry wen harvest come.",
+    "moral": "Failure to plan is planning to fail."
+  },
+  {
+    "id": 165,
+    "proverb": "Person wey born pikin dey still chop.",
+    "moral": "The responsibilities that come with parenthood should not stop the parents from having a life."
+  },
+  {
+    "id": 167,
+    "proverb": "Na who know man dey kill man.",
+    "moral": "Caution, those closest to you are more likely to hurt you."
+  },
+  {
+    "id": 169,
+    "proverb": "Body no be firewood.",
+    "moral": "Humans have feelings and limits. "
+  },
+  {
+    "id": 171,
+    "proverb": "If you comot your eye make you for no see your enemy, how you go see your friend?",
+    "moral": "Do not cut off your nose to spite your face."
+  },
+  {
+    "id": 173,
+    "proverb": "Cow wey no get tail... Na God dey drive fly for am.",
+    "moral": "God helps the helpless."
+  },
+  {
+    "id": 175,
+    "proverb": "The person wey borrow you trouser go always dey look your waist.",
+    "moral": "Better be a lender than a borrower."
+  },
+  {
+    "id": 177,
+    "proverb": "Na coconut tree wey fall, na im make goat fit climb am.",
+    "moral": "The downfall of great man is what gave power to the weak."
+  },
+  {
+    "id": 179,
+    "proverb": "If you no let people laff u, dem go cry for you.",
+    "moral": "Don't be afraid to take action because others might mock you."
+  },
+  {
+    "id": 181,
+    "proverb": "No be how bodi dey scratch person na im person dey scratch am.",
+    "moral": "Calm down and think rationally. Easy does it."
+  },
+  {
+    "id": 183,
+    "proverb": "When two elephants fights, na ground dey suffer am.",
+    "moral": "Warning – when the powerful fight, it is the powerless that suffers."
+  },
+  {
+    "id": 185,
+    "proverb": "The person wey shit for ground fit forget but the person wey pack the shit no go ever forget.",
+    "moral": "Only the ungrateful forgets."
+  },
+  {
+    "id": 187,
+    "proverb": "Pikin wey no listen to im elders go use basket fetch water from river one day.",
+    "moral": "A stubborn child who ignores elders’ advice will regret it in future."
+  },
+  {
+    "id": 189,
+    "proverb": "Dem no dey tell blind man say market don close, by the time im no hear voices, im go know.",
+    "moral": "A dog will always find its way home."
+  },
+  {
+    "id": 191,
+    "proverb": "Na who marry cripple, know as im dey sleep with am.",
+    "moral": "Where there’s a will, there’s a way."
+  },
+  {
+    "id": 193,
+    "proverb": "Dough must enter fire before e rise.",
+    "moral": "Nothing ventured, nothing gained."
+  },
+  {
+    "id": 195,
+    "proverb": "My own, you own and our own different.",
+    "moral": "To each his own."
+  },
+  {
+    "id": 197,
+    "proverb": "If you sabi pound, pound for mortal, if not.... pound for floor.",
+    "moral": "Achieve your goal – by whatever means neccessary."
+  },
+  {
+    "id": 199,
+    "proverb": "Monkey dey work, baboon dey chop.",
+    "moral": "The poor work, the rich eat."
+  },
+  {
+    "id": 201,
+    "proverb": "If you beat pikin with your left hand, make you use your right hand draw am near.",
+    "moral": "Temper justice with mercy."
+  },
+  {
+    "id": 203,
+    "proverb": "River wey forget im source dey dry.",
+    "moral": "Dont forget those you met on your way up because you might meet them on your way down."
+  },
+  {
+    "id": 205,
+    "proverb": "Monkey no fine but im mama like am.",
+    "moral": "Love is blind, a mother's love is unconditional."
+  },
+  {
+    "id": 207,
+    "proverb": "Shine your eye no be curse.",
+    "moral": "Dont take offence at being told to get street-smart."
+  },
+  {
+    "id": 209,
+    "proverb": "Na who look new wife eye, na im know say she dey cry.",
+    "moral": "Soldiering on in the face of distractions"
+  },
+  {
+    "id": 211,
+    "proverb": "Khaki no be Leather.",
+    "moral": "All fingers are not equal."
+  },
+  {
+    "id": 213,
+    "proverb": "No use shame chop poison.",
+    "moral": "One shouldn't be afraid to take action because others might mock you, you might end up worse off."
+  },
+  {
+    "id": 215,
+    "proverb": "Water don pass garri.",
+    "moral": "Referring to a situation that has spiraled out of control."
+  },
+  {
+    "id": 217,
+    "proverb": "Na the name wey dem give dog, na im the dog dey answer.",
+    "moral": "Whoever pays the piper, dictates the tune."
+  },
+  {
+    "id": 219,
+    "proverb": "First to do no dey pain.",
+    "moral": "Revenge is a dish best served cold."
+  },
+  {
+    "id": 221,
+    "proverb": "Rice wey dem chop remain give you betta pass the rice wey never done.",
+    "moral": "Make use of the available opportunity given to you."
+  },
+  {
+    "id": 223,
+    "proverb": "Person way dey sell egg, no day start fight for market.",
+    "moral": "A person who lives in glass house don’t throw stones."
+  },
+  {
+    "id": 225,
+    "proverb": "Na the small cooperation wey water and garri get na im make am dey rise.",
+    "moral": "There’s strength in Unity"
+  },
+  {
+    "id": 227,
+    "proverb": "Na person wey no know him mother boyfriend dey call am uncle.",
+    "moral": "Knowledge is power."
+  },
+  {
+    "id": 229,
+    "proverb": "Ogogoro and water get the same colour but no be the same taste.",
+    "moral": "Appearance might be deceiving"
+  },
+  {
+    "id": 231,
+    "proverb": "Person wey use Elephant set trap, na him know wetin he wan Catch.",
+    "moral": "Everything in life has it’s limits"
+  },
+  {
+    "id": 233,
+    "proverb": "Its a small world!! No mean say you fit trek from Naija go London",
+    "moral": "Be realistic, things are not always as easy as they sound."
+  },
+  {
+    "id": 235,
+    "proverb": "Person wey don faint before no be stranger to death.",
+    "moral": "Sometimes just a little experience is enough to learn."
+  },
+  {
+    "id": 237,
+    "proverb": "Na for old age ashawo dey know the value of pikin.",
+    "moral": "You might not realize the value of something until it's too late."
+  },
+  {
+    "id": 239,
+    "proverb": "Na who blow dust, dust dey follow.",
+    "moral": "Envy and jealousy have repercussions."
+  },
+  {
+    "id": 241,
+    "proverb": "Woman wey never see problem na im dey still hold breast run.",
+    "moral": "Seriousness can be judged from your actions."
+  },
+  {
+    "id": 243,
+    "proverb": "Woman wey dey find pikin no dey wear pant sleep.",
+    "moral": "Certain actions are required in certain situation."
+  },
+  {
+    "id": 245,
+    "proverb": "Rat wey follow lizard enter rain, na later im go hear am.",
+    "moral": "Know you limit; know who you hang out with."
+  },
+  {
+    "id": 247,
+    "proverb": "Na for afternoon dem dey find black goat.",
+    "moral": "There's time for everything."
+  },
+  {
+    "id": 249,
+    "proverb": "Weather hot, e no mean say fowl go lay boiled egg.",
+    "moral": "No matter how bad a situation is, it's never unheard of."
+  },
+  {
+    "id": 251,
+    "proverb": "Pikin wey him mama back cross water, wey say him march fish, wetin him mama go march?",
+    "moral": "Always learn to appreciate people especially does helping you."
+  },
+  {
+    "id": 253,
+    "proverb": "Small pikin wey dem carry for back no know say the journey far.",
+    "moral": "The dependent ones might not appreciate the benefits of what they are getting."
+  },
+  {
+    "id": 255,
+    "proverb": "Person wey chop belle full, no know wetin hungry man dey see.",
+    "moral": "The fortunate ones might not understand the pain others are going through."
+  },
+  {
+    "id": 257,
+    "proverb": "Lizard wey fall from tall iroko tree, if nobody hail am!! im go hail himself.",
+    "moral": "Learn to appreciate yourself."
+  },
+  {
+    "id": 259,
+    "proverb": "Cockroach wey jam fowl, jam bad luck.",
+    "moral": "Know your boundaries to avoid delicate situation."
+  },
+  {
+    "id": 261,
+    "proverb": "Pikin wey say him mama no fine they use style call him papa blind man.",
+    "moral": "Be mindful of what you say, you might just be insulting yourself indirectly."
+  },
+  {
+    "id": 263,
+    "proverb": "No be eye wey dem take chop eba dem take dey share meat.",
+    "moral": "Certain situation warrant seriousness."
+  },
+  {
+    "id": 265,
+    "proverb": "Dem no dey tell tortoise say race don start.",
+    "moral": "Don't bother wasting your time with unproductive people."
+  },
+  {
+    "id": 267,
+    "proverb": "If pikin say he sabi die, him papa sef go tell am say him sabi bury.",
+    "moral": "Don't be a huge burden to your parent."
+  },
+  {
+    "id": 269,
+    "proverb": "Na wetin dey sweet for goat mouth, na im dey kill am.",
+    "moral": "Excess od everything is bad."
+  },
+  {
+    "id": 271,
+    "proverb": "If e be like say everybody dey craze, na you dey craze.",
+    "moral": "You might be your own problem, learn to be nice to people."
+  },
+  {
+    "id": 273,
+    "proverb": "Meat wey you dey forbid, no use your teeth cut am.",
+    "moral": "Don't start what you can finish."
+  },
+  {
+    "id": 275,
+    "proverb": "My thing and our thing no be the same.",
+    "moral": "We are all different"
+  },
+  {
+    "id": 277,
+    "proverb": "Na happiness dey make prick stand.",
+    "moral": "Good mood influences ones action."
+  },
+  {
+    "id": 279,
+    "proverb": "Person wey dey purge no dey select toilet.",
+    "moral": "There's no time for delay in urgent times. "
+  },
+  {
+    "id": 281,
+    "proverb": "Na See-Finish make “Good morning” turn “How far”.",
+    "moral": "Disrespect can be painful. "
+  },
+  {
+    "id": 283,
+    "proverb": "No be today yansh don get center parting.",
+    "moral": "There's nothing new under the sun. "
+  },
+  {
+    "id": 285,
+    "proverb": "Ikebe no dey heavy the owner.",
+    "moral": "You should be in the position to solve your own problems. "
+  },
+  {
+    "id": 287,
+    "proverb": "Na when rain stop you go know say Umbrella na load.",
+    "moral": "Nothing is perfect, everything as it time. "
+  },
+  {
+    "id": 289,
+    "proverb": "Anywhere wey belle face na front. ",
+    "moral": "Because your Indomie quick done no mean say who cook beans lazy."
+  },
+  {
+    "id": 291,
+    "proverb": "Just because you are fortunate enough to be successful doesn't mean others aren't making effort. ",
+    "moral": "Remember say this life na “Standing fan” if he blow you small, e go blow another person."
+  },
+  {
+    "id": 293,
+    "proverb": "Every man as is time. ",
+    "moral": "Pikin fit play with him mama breasts but e no fit try am with him Papa Kponranran."
+  },
+  {
+    "id": 295,
+    "proverb": "There's a boundary to everything. ",
+    "moral": "Egg Roll wey no get egg na Puff-puff."
+  },
+  {
+    "id": 297,
+    "proverb": "If it's not good enough, it's not good enough. ",
+    "moral": "Wetin old person siddon for ground see, pikin wey stand on top tree no go ever fit see am."
+  },
+  {
+    "id": 299,
+    "proverb": "Na wen visitor chop finish for your house im dey remember say rain done fall finish.",
+    "moral": "Respect your elderly ones, they probably have more experience than you do. "
+  },
+  {
+    "id": 301,
+    "proverb": "Wetin concern bicycle with filling station.",
+    "moral": "Don't bother about other people's problem. "
+  },
+  {
+    "id": 303,
+    "proverb": "Poor man no dey siddon for bench for village meeting.",
+    "moral": "In life, there's heirachy. "
+  },
+  {
+    "id": 305,
+    "proverb": "Dem no dey slim fit borrowed clothes.",
+    "moral": "You don't mess with other people's properties. "
+  },
+  {
+    "id": 307,
+    "proverb": "Good name better pass gold and silver.",
+    "moral": "Try to always make people know you for good. "
+  },
+  {
+    "id": 309,
+    "proverb": "Becos native doctor go London no mean say the gods don begin speak English.",
+    "moral": "It's not a matter of how far, it's how well. "
+  },
+  {
+    "id": 311,
+    "proverb": "If you like wear monkey suit come carry am go London, banana go still disgrace am.",
+    "moral": "You can never change a man from his original ways. "
+  },
+  {
+    "id": 313,
+    "proverb": "Na the same hot water wey dey make egg hard, na im dey make yam soft.",
+    "moral": "Different stroke for different folks."
+  },
+  {
+    "id": 315,
+    "proverb": "Becos lizard dey nod im head no mean say everytin dey ok.",
+    "moral": "Avoid making assumptions about people. "
+  },
+  {
+    "id": 317,
+    "proverb": "No be everytin wey touch your hand you go put for mouth.",
+    "moral": "Be careful and mind your ways. "
+  },
+  {
+    "id": 319,
+    "proverb": "Epp me beat my pikin no mean kill am for me.",
+    "moral": "There's a limit to everything. "
+  },
+  {
+    "id": 321,
+    "proverb": "I hear no mean say i gree.",
+    "moral": "Silence doesn't mean acceptance. "
+  },
+  {
+    "id": 323,
+    "proverb": "No be who first carri belle dey born boy.",
+    "moral": "It's not a matter of how far but how well. "
+  },
+  {
+    "id": 325,
+    "proverb": "Shift make i siddon, na im dey collect person space.",
+    "moral": "Render favour carefully. "
+  },
+  {
+    "id": 327,
+    "proverb": "Pikin no sabi say fire dey burn person until im touch am.",
+    "moral": "Experience is the best teacher. "
+  },
+  {
+    "id": 329,
+    "proverb": "Pesin wey won catch animal for bush no dey blow whistle.",
+    "moral": "Certain actions requires certain measures. "
+  },
+  {
+    "id": 331,
+    "proverb": "Pikin wey no sabi medicine dey call am vegetable.",
+    "moral": "Knowledge is power, don't be ignorant. "
+  },
+  {
+    "id": 333,
+    "proverb": "No be who first call Police dey win case.",
+    "moral": "There's hierarchy in life, it's not a matter of how far but how well. "
+  },
+  {
+    "id": 335,
+    "proverb": "E no get as e be wey e never be before.",
+    "moral": "There's nothing new under the sun. "
+  },
+  {
+    "id": 337,
+    "proverb": "This one good, this one good... na im make madman carry plenty load.",
+    "moral": "Be contempted with what you have. "
+  },
+  {
+    "id": 339,
+    "proverb": "Wen money dey, friends go dey... wen money go, friends go go.",
+    "moral": "Not everyone stick around in time of trouble. "
+  },
+  {
+    "id": 341,
+    "proverb": "Cow wey no get tail... na God dey help am pursue fly.",
+    "moral": "God is always there for the needy. "
+  },
+  {
+    "id": 343,
+    "proverb": "Dem no dey tell blind man sey rain dey fall.",
+    "moral": "You are in the best position to advise yourself. "
+  },
+  {
+    "id": 345,
+    "proverb": "Pastor wen dey pray for mad pesin no dey close eye.",
+    "moral": "Take precautions when taking drastic actions. "
+  },
+  {
+    "id": 347,
+    "proverb": "I no be your mate. Na im make slippers get size.",
+    "moral": "There's hierarchy in life. "
+  },
+  {
+    "id": 349,
+    "proverb": "Na economy recession make teacher use ruler dey measure yam.",
+    "moral": "There's a reason for every actions. "
+  },
+  {
+    "id": 351,
+    "proverb": "Water wey dey hot fit later cold... No rush life.",
+    "moral": "No condition is permanent, don't rush life. "
+  },
+  {
+    "id": 353,
+    "proverb": "Person wey too dey sleep na poverty go hit am.",
+    "moral": "There's no food for lazy the mind. "
+  },
+  {
+    "id": 355,
+    "proverb": "Dangote, Dangote, Dangote still dey find money o.",
+    "moral": "Money is an insatiable need. "
+  },
+  {
+    "id": 357,
+    "proverb": "Dem no dey tell deaf man say war don start.",
+    "moral": "You are in the right position to advise yourself. "
+  },
+  {
+    "id": 359,
+    "proverb": "If you no get money, no hide your face. Show your face make somebody help you.",
+    "moral": "Share your problems, in order to be able to get help. "
+  },
+  {
+    "id": 361,
+    "proverb": "Na person wey never see problem dey use English dey pray.",
+    "moral": "Don't take serious matters with levity. "
+  },
+  {
+    "id": 363,
+    "proverb": "Nothing concern bicycle wit fuel scarcity.",
+    "moral": "Don't bother with things that doesn't concern you. "
+  },
+  {
+    "id": 365,
+    "proverb": "Na over confidence make February no complete.",
+    "moral": "Overconfidence can be disastrously. "
+  },
+  {
+    "id": 367,
+    "proverb": "Goat wey get mind follow lion go catch fish, make e know say weda dem catch fish or not, Lion food don set.",
+    "moral": "Beware of who you hang out with. "
+  },
+  {
+    "id": 369,
+    "proverb": "Wetin concern dog wit family planning?",
+    "moral": "Don't bother yourself with problems that doesn't exist "
+  },
+  {
+    "id": 371,
+    "proverb": "Pikin wey go strong go strong... No be until dem name am Samson.",
+    "moral": "It not just about effort, grace is also important. "
+  },
+  {
+    "id": 373,
+    "proverb": "Make I chop this guy money, Make I chop this guy money, Na so ashawo dey take start.",
+    "moral": "Serious problems start gradually. "
+  },
+  {
+    "id": 375,
+    "proverb": "Cos Lion dey sick no mean say im and cat be mate.",
+    "moral": "The downfall of a man is not the end of a man. "
+  },
+  {
+    "id": 377,
+    "proverb": "E go beta, e go beta, na im make camel still dey carry load.",
+    "moral": "Ones there's life, there's hope. "
+  },
+  {
+    "id": 379,
+    "proverb": "Na determination dey make Okada dey overtake Trailer for road.",
+    "moral": "Think properly before taking drastic actions. "
+  },
+  {
+    "id": 381,
+    "proverb": "First class no be who collect extra sheet.",
+    "moral": "It's not a matter of how far but how well. "
+  },
+  {
+    "id": 383,
+    "proverb": "Even ice cream truck dey announce with jingle bell from far.",
+    "moral": "You got to voice out yourself for you to be heard. "
+  },
+  {
+    "id": 385,
+    "proverb": "No be who carry first be the most intelligent.",
+    "moral": "It's not about how far but how well. "
+  },
+  {
+    "id": 387,
+    "proverb": "Food wey your family go eat no go make you poor.",
+    "moral": "Family comes first, always take care of your family. "
+  },
+  {
+    "id": 389,
+    "proverb": "Never get in a mud fight with a pig. When una turn brown with dirty, na two pig everybody go see. ",
+    "moral": "You can't bring an ignorant down without going down with him. "
+  },
+  {
+    "id": 391,
+    "proverb": "20 pikin no fit play together for 20 years.",
+    "moral": "Not one is meant to be together forever. "
+  },
+  {
+    "id": 393,
+    "proverb": "A stitch in time... dey prevent further tear tear.",
+    "moral": "Prevention is better than cure. "
+  },
+  {
+    "id": 395,
+    "proverb": "Person wey get one leg no dey answer \"no shaking\".",
+    "moral": "Know your limit. "
+  },
+  {
+    "id": 397,
+    "proverb": "Dog wey go lost, no go hear hunter whistle.",
+    "moral": "To forewarned is to forearmed. "
+  },
+  {
+    "id": 399,
+    "proverb": "Dem no dey put hand for pocket climb ladder.",
+    "moral": "Don't take things with levity. "
+  },
+  {
+    "id": 401,
+    "proverb": "Pastor wey no get money to buy gold necklace for him wife, go say all na vanity.",
+    "moral": "Financial situation can influence one's attitude. "
+  },
+  {
+    "id": 403,
+    "proverb": "Burger no fit tell Eba how banga soup dey be.",
+    "moral": "Everyone has his or her field of professionalism. "
+  },
+  {
+    "id": 405,
+    "proverb": "Everybody na thief, na the person wey dem catch be 'barawo'.",
+    "moral": "Nobody is a saint. "
+  },
+  {
+    "id": 407,
+    "proverb": "Na when rain fall, okada owner go know say him no be big man.",
+    "moral": "Everyone definitely has a flaw. "
+  },
+  {
+    "id": 409,
+    "proverb": "Na when soldier slap you, you go sabi say police na your friend.",
+    "moral": "Experience is the best teacher. "
+  },
+  {
+    "id": 411,
+    "proverb": "If you take cow eye take dey look life, na only grass you go dey see.",
+    "moral": "Experiences are different, do not generalize. "
+  },
+  {
+    "id": 413,
+    "proverb": "Na sofry sofry dem dey take kill fly wey perch on top brokos.",
+    "moral": "Certain situations requires skill not strength. "
+  },
+  {
+    "id": 415,
+    "proverb": "Any girl wey no get breast, na her papa she take chest resemble.",
+    "moral": "Let's call a spade a spade. "
+  },
+  {
+    "id": 417,
+    "proverb": "No matter how you get money reach, you no fit buy yesterday.",
+    "moral": "Money can't buy everything. "
+  },
+  {
+    "id": 419,
+    "proverb": "Na from 'give me my cap, give me my cap' pikin dey take touch him papa bald head.",
+    "moral": "Act maturely to avoid disrespect. "
+  },
+  {
+    "id": 421,
+    "proverb": "When Garri see wetin hot, e change e name to Eba.",
+    "moral": "Change is constant. "
+  },
+  {
+    "id": 423,
+    "proverb": "Head wey no wan think go carry load.",
+    "moral": "If education is expensive, try ignorance. "
+  },
+  {
+    "id": 425,
+    "proverb": "Forget Trust! If trust dey, water nor for boil Fish.",
+    "moral": "Beware of who you trust. "
+  },
+  {
+    "id": 427,
+    "proverb": "No food for lazy man no be for pesin wey im mama dey sell food.",
+    "moral": "Some people are born fortunate. "
+  },
+  {
+    "id": 429,
+    "proverb": "Who dey hold landlord rentage no dey fry stew way curry dey.",
+    "moral": "Always strive to pay your debt. "
+  },
+  {
+    "id": 431,
+    "proverb": "Wen goat laff cos say him hear say Lion dey come, you need find out wich kind grass im dey chop.",
+    "moral": "If you fear danger, you act safely. "
+  },
+  {
+    "id": 433,
+    "proverb": "Headmaster was once a school boy. ",
+    "moral": "Everyone has a humble beginning. "
+  },
+  {
+    "id": 435,
+    "proverb": "We no go kneel down beg cow because we wan chop meat. ",
+    "moral": "Don't belittle yourself because of materialistic things. "
+  },
+  {
+    "id": 437,
+    "proverb": "Garri no get advert; yet it sell pass Indomie for market. ",
+    "moral": "A good name might be all you need to succeed. "
+  },
+  {
+    "id": 439,
+    "proverb": "Dead person no dey hide for the person wey won baff am. ",
+    "moral": "Don't hide your problems from people that can help you to solve them."
+  },
+  {
+    "id": 441,
+    "proverb": "Person when never go another person papa farm dey say na im papa own big pass.",
+    "moral": "You are limited by your own experience. "
+  },
+  {
+    "id": 443,
+    "proverb": "U belle full today no mean sey u no go hungry tomorrow. ",
+    "moral": "All days can't be the same, save for days you won't have much on you. "
+  },
+  {
+    "id": 445,
+    "proverb": "Hunter wey carry goat come house na thief. ",
+    "moral": "Don't be greedy; don't go beyond your limit. "
+  },
+  {
+    "id": 447,
+    "proverb": "Trouble dey sleep... yanga dey wake am.",
+    "moral": "Avoid causing trouble. "
+  },
+  {
+    "id": 449,
+    "proverb": "Person wey open eye cut shaki from pepper soup is scared of nothing.",
+    "moral": "Only the brave take bold steps. "
+  },
+  {
+    "id": 451,
+    "proverb": "Table no dey turn, na who get sense dey change him chair.",
+    "moral": "Always apply reasoning, things are not always as they appear. "
+  },
+  {
+    "id": 453,
+    "proverb": "“Monkey smart, monkey smart”, na because tree near tree.",
+    "moral": "It's not just about skills, you might just be fortunate. "
+  },
+  {
+    "id": 455,
+    "proverb": "Who dey argue with king, na him dey tey for kneel down.",
+    "moral": "Respect those that are superior to you. "
+  },
+  {
+    "id": 457,
+    "proverb": "No matter how fly craze reach, e no fit perch on top hot eba.",
+    "moral": "Know your limit. "
+  },
+  {
+    "id": 459,
+    "proverb": "Belle no be show glass, na who vomit, go show wetin him chop.",
+    "moral": "Hunan being are dynamic, know who you trust. "
+  },
+  {
+    "id": 461,
+    "proverb": "One day, monkey go go market, e no go return.",
+    "moral": "There's always an end game for the evil ones. "
+  },
+  {
+    "id": 463,
+    "proverb": "Village wey the only barber na lion, all the goats there go keep afro.",
+    "moral": "Don't dangerous times, you take strict measures. "
+  },
+  {
+    "id": 465,
+    "proverb": "Respect who get, but fear who never collect.",
+    "moral": "Always play safe when dealing with people. "
+  },
+  {
+    "id": 467,
+    "proverb": "Pesin wey use him head break coconut no go chop from am.",
+    "moral": "Avoid doing something deadly. "
+  },
+  {
+    "id": 469,
+    "proverb": "I no fit climb, na bottom tree them dey talk am.",
+    "moral": "The lazy one's will always find excuses. "
+  },
+  {
+    "id": 471,
+    "proverb": "To give monkey banana no be issue but na to collect am back be wahala.",
+    "moral": "Be careful about who you entrust things to. "
+  }
+]

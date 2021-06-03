@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="<%= package.description %>">
+    <title>Akpors Must Rest</title>
+  </head>
+  <body>
+    <header>
+      <div>
+        <a href="/">
+          <img src="../assets/images/icon.png" alt="" />
+        </a>
+        <nav>
+          <ul>
+            <li><a href="/joke/" data-navigo>Joke</a></li>
+            <li><a href="/motivation/" data-navigo>Motivation</a></li>
+            <li><a href="/proverb/" data-navigo>Proverb</a></li>
+          </ul> 
+        </nav>
+      </div>
+      <div>
+        <h1>Akpors Must <span>Rest</span></h1>
+      </div>
+    </header>
+    <main>
+      <div class="bg-gray-300 pt-20 pb-10">
+        <div class="overflow-auto max-h-screen-3/5">
+          <div
+            class="mx-auto w-10/12 flex flex-col items-center min-h-card max-w-card relative"
+            data-state="loading"
+            id="figure-card"
+          >
+            <figure class="w-full h-full bg-gray-100 px-6 py-2 pt-6 mb-1 h-full flex-1 flex flex-col">
+              <!-- HACK: to make no connection image preloaded by default! -->
+              <img src="../assets/images/icon-no-connection.png" style="display: none;">
+
+              <div class="flex items-start">
+                <img
+                  src="../assets/images/icon.png"
+                  alt=""
+                  class="w-10 h-10 rounded-full border-gray-800 border"
+                />
+                <div class="ml-6 text-gray-700">
+                  <span class="font-bold text-sm">akpors-must-rest</span>
+                  <span id="figure-card-title"
+                    class="font-bold text-xs block uppercase ml-2 text-gray-500"
+                    >motivation</span
+                  >
+                </div>
+              </div>
+              <figcaption class="text-xs py-4">
+              </figcaption>
+
+              <span class="text-xs text-gray-400 text-center block pb-8 mt-auto"
+                ><%= new URL(package.homepage).host %></span
+              >
+            </figure>
+            <button
+              class="
+                bg-red-400
+                text-3xl
+                rounded-full
+                shadow-lg
+                text-white
+                -top-8
+                w-16
+                h-16
+                relative
+                -top-4
+                flex-shrink-0
+                outline-none
+                disabled:bg-red-200
+                disabled:text-grey-300
+              "
+              id="btn-reload"
+            ><span class="icon-cw"></spancl></button>
+          </div>
+        </div>
+        <div class="pt-8 pb-4" style="background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0, rgba(255, 255, 255, 70%) 25%, rgba(255, 255, 255, 0) 100%);">
+          <button
+            class="
+              bg-yellow-200
+              block
+              mx-auto
+              py-2
+              px-8
+              uppercase
+              font-bold
+              shadow-md
+              text-gray-800
+              disabled:bg-yellow-100
+              disabled:text-gray-400
+            "
+            id="btn-download-sreenshot"
+          >
+            Download Screenshot
+          </button>
+
+          <div class="flex flex-col items-center text-center mt-4">
+            <strong class="text-md font-normal block uppercase relative dash-sides"
+              >share</strong
+            >
+
+            <ul class="text-3xl text-gray-600 flex mt-1">
+              <li><a href="" target="_blank" data-share-facebook><span class="icon-facebook-official"></span></a></li>
+              <li><a href="" target="_blank" data-share-twitter><span class="icon-twitter-squared"></span></a></li>
+              <li><a href="" target="_blank" data-share-native><span class="icon-share-squared"></span></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <footer class="py-10 flex flex-col items-center gap-6" style="min-height: 14rem;">
+        <a class="bg-gray-800 uppercase text-gray-200 py-2 px-8 block rounded font-bold" href="docs.html">View API Documentation</a>
+        <a href="" class="uppercase text-gray-300 text-sm">PROUDLY OPEN SOURCE WITH <span class="icon-heart text-red-600"></span> ON GITHUB</a>
+        <!-- <span class="uppercase block mt-auto text-gray-700">&copy; Copyright 2021</span> -->
+      </footer>
+    </main>
+    <script>
+      if ("serviceWorker" in window.navigator) {
+        window.navigator.serviceWorker.register('/service-worker.js')
+      }
+    </script>
+  </body>
+</html>

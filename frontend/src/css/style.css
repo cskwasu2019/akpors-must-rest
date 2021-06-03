@@ -1,0 +1,147 @@
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes anim-loading {
+  50% {
+    transform: rotateZ(-45deg);
+  }
+  100% {
+    transform: rotateZ(0deg);
+  }
+}
+
+body {
+  @apply container bg-gray-900 mx-auto;
+}
+
+.dash-sides {
+  display: flex;
+  align-items: center;
+  &::before,
+  &::after {
+    content: '';
+    display: inline-block;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    width: 2.5rem;
+    margin: 0 0.5rem;
+  }
+}
+
+.dark-sides-border-light {
+  &::before,
+  &::after {
+    border: 1px solid rgba(255, 255, 255, 0.6);
+  }
+}
+
+nav a {
+  &::after {
+    content: '.';
+    opacity: 0;
+    display: inline-block;
+  }
+
+  &[data-current]::after,
+  &:hover::after {
+    opacity: 1;
+  }
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+#figure-card {
+  & figcaption {
+    transition-property: color, height;
+    transition-duration: 0.2s, 0.3s;
+    color: rgba(0, 0, 0, 0);
+  }
+
+  &[data-state='active'] figcaption {
+    color: rgba(0, 0, 0, 0.8);
+  }
+}
+
+#figure-card-title {
+  &::before {
+    content: '--';
+    display: inline-block;
+    margin-right: 0.2rem;
+  }
+}
+
+header {
+  & > div:first-of-type {
+    @apply flex items-center;
+    & img {
+      @apply w-14 mr-5;
+    }
+
+    & nav ul {
+      @apply flex gap-4 text-gray-200 uppercase text-sm;
+    }
+  }
+
+  & > div:last-of-type {
+    @apply bg-gray-300 inline-block pr-10 pl-5 py-1 font-bold text-sm text-gray-700 uppercase rounded-tr-lg;
+    & span {
+      @apply text-red-600;
+    }
+  }
+}
+
+.header-dark {
+  @apply bg-gray-800;
+  & > div:last-of-type {
+    @apply bg-gray-900 text-gray-400;
+
+    & span {
+      @apply text-red-400;
+    }
+  }
+}
+
+#figure-card[data-state='loading'] {
+  & figcaption {
+    min-height: 4rem;
+    position: relative;
+    &::before {
+      content: '';
+      display: block;
+      position: absolute;
+      left: calc(50% - 2.5rem / 2);
+      top: calc(50% - 2.5rem / 2);
+      width: 2.5rem;
+      height: 2.5rem;
+      background: url('../../assets/images/icon-bw.png') no-repeat center/cover;
+      animation: fade-in 1s ease-in-out, anim-loading 1.5s ease-in-out infinite;
+    }
+  }
+}
+
+#figure-card[data-state='load-failed'] {
+  & figcaption {
+    min-height: 12rem;
+    position: relative;
+
+    &::before {
+      content: '';
+      display: block;
+      position: absolute;
+      left: calc(50% - 10rem / 2);
+      top: calc(50% - 10rem / 2);
+      width: 10rem;
+      height: 10rem;
+      background: url('../../assets/images/icon-no-connection.png') no-repeat
+        center/cover;
+      animation: fade-in 1s ease-in-out forwards;
+    }
+  }
+}

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="<%= package.description %>">
+    <title>Akpors Must Rest | Documentation</title>
+  </head>
+
+  <body>
+    <header class="header-dark">
+      <div>
+        <a href="/">
+          <img src="../assets/images/icon.png" alt="" />
+        </a>
+        <nav>
+          <ul>
+            <li><a href="docs.html" data-current>API Documentation</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div><h1>Akpors Must <span>Rest</span></h1></div>
+    </header>
+    <div class="text-gray-300 mt-16">
+      <div class="lg:w-1/2 px-4 md:px-0 mx-auto">
+        <h2 class="uppercase text-xl md:text-2xl mb-1">Get Resource Items</h2>
+        <hr class="w-full border-gray-700 mb-4">
+
+        <div class="flex">
+          <span class="bg-green-300 py-2 text-gray-800 px-4 font-bold">GET</span
+          ><input
+            type="text"
+            class="flex-1 py-2 px-4 text-gray-900 min-w-0 font-mono text-xs"
+            value="<%= package.homepage %>/api/@RESOURCE/?@QUERY"
+            readonly
+          />
+        </div>
+        <div class="bg-black font-normal py-4 px-6 text-gray-300 flex-1 break-words">
+          <p class="mt-2">
+            <span class="font-mono">@RESOURCE:</span>
+            <div class="text-sm ml-2">
+              Type of resource, can be either of <span class="font-mono font-medium">[jokes, motivations, proverbs]</span>
+            </div>
+
+            <p class="mt-2">
+              <span class="font-mono">@QUERY:</span>
+              <div class="text-sm ml-2">
+                Optional Query
+                <div class="ml-4">page: query resource items at specific page</div>
+              </div>
+            </p>
+          </p>
+          <hr class="w-full border-gray-800 mb-4 my-2">
+
+
+          <p class="mt-8">
+            <span class="font-mono">RESPONSE:</span>
+            <div class="text-sm ml-2">
+              Array of resource items data Object
+            </div>
+          </p>
+          <hr class="w-full border-gray-800 mb-4 my-2">
+
+          <p class="mt-2">
+            <span class="font-mono">EXAMPLES:</span>
+            <div class="text-sm ml-2">
+              Get jokes resource (at page 1):
+              <div class="ml-4">
+                <a href="<%= package.homepage %>/api/jokes/" target="_blank" class="text-blue-300"><%= package.homepage %>/api/jokes/</a>
+              </div>
+            </div>
+
+            <div class="text-sm ml-2">
+              Get motivation resource (at page 3):
+              <div class="ml-4">
+                <a href="<%= package.homepage %>/api/motivations/?page=3" target="_blank" class="text-blue-300"><%= package.homepage %>/api/motivations/?page=3</a>
+              </div>
+            </div>
+          </p>
+        </div>
+      </div>
+
+
+      <div class="lg:w-1/2 px-4 md:px-0 mx-auto mt-12">
+        <h2 class="uppercase text-xl md:text-2xl mb-1">Get Single Random Resource Item</h2>
+        <hr class="w-full border-gray-700 mb-4">
+
+
+        <div class="flex">
+          <span class="bg-green-300 py-2 text-gray-800 px-4 font-bold">GET</span
+          ><input
+            type="text"
+            class="flex-1 py-2 px-4 text-gray-900 min-w-0 font-mono text-xs"
+            value="<%= package.homepage %>/api/@RESOURCE/random/"
+            readonly
+          />
+        </div>
+        <div class="bg-black font-normal py-4 px-6 text-gray-300 flex-1 break-words">
+          <p class="mt-2">
+            <span class="font-mono">@RESOURCE:</span>
+            <div class="text-sm ml-2">
+              Type of resource, can be either of <span class="font-mono font-medium">[jokes, motivations, proverbs]</span>
+            </div>
+          </p>
+          <hr class="w-full border-gray-800 mb-4 my-2">
+              
+          <p class="mt-8">
+            <span class="font-mono">RESPONSE:</span>
+            <div class="text-sm ml-2">
+              Resource item data object
+            </div>
+          </p>
+          <hr class="w-full border-gray-800 mb-4 my-2">
+
+          <p class="mt-2">
+            <span class="font-mono">EXAMPLES:</span>
+            <div class="text-sm ml-2">
+              Get a random motivation resource
+              <div class="ml-4">
+                <a href="<%= package.homepage %>/api/motivation/random/" target="_blank" class="text-blue-300"><%= package.homepage %>/api/motivation/random/</a>
+              </div>
+            </div>
+          </p>
+        </div>
+      </div>
+
+      <div class="lg:w-1/2 px-4 md:px-0 mx-auto mt-12">
+        <h2 class="uppercase text-xl md:text-2xl mb-1">Get Single Resource Item</h2>
+        <hr class="w-full border-gray-700 mb-4">
+
+
+        <div class="flex">
+          <span class="bg-green-300 py-2 text-gray-800 px-4 font-bold">GET</span
+          ><input
+            type="text"
+            class="flex-1 py-2 px-4 text-gray-900 min-w-0 font-mono text-xs"
+            value="<%= package.homepage %>/api/@RESOURCE/@ID/"
+            readonly
+          />
+        </div>
+        <div class="bg-black font-normal py-4 px-6 text-gray-300 flex-1 break-words">
+          <p class="mt-2">
+            <span class="font-mono">@RESOURCE:</span>
+            <div class="text-sm ml-2">
+              Type of resource, can be either of <span class="font-mono font-medium">[jokes, motivations, proverbs]</span>
+            </div>
+
+            <p class="mt-2">
+              <span class="font-mono">@ID:</span>
+              <div class="text-sm ml-2">
+                Unique ID of the requested resource
+              </div>
+            </p>
+          </p>
+          <hr class="w-full border-gray-800 mb-4 my-2">
+
+
+          <p class="mt-8">
+            <span class="font-mono">RESPONSE:</span>
+            <div class="text-sm ml-2">
+              Resource item data object
+            </div>
+          </p>
+          <hr class="w-full border-gray-800 mb-4 my-2">
+
+
+          <p class="mt-2">
+            <span class="font-mono">EXAMPLES:</span>
+            <div class="text-sm ml-2">
+              Get a perticular joke resource (ID: 1)
+              <div class="ml-4">
+                <a href="<%= package.homepage %>/api/joke/1/" target="_blank" class="text-blue-300"><%= package.homepage %>/api/joke/1/</a>
+              </div>
+            </div>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <hr class="w-full border-gray-700 mt-12">
+
+    <footer
+      class="py-10 flex flex-col items-center gap-6"
+      style="min-height: 14rem"
+    >
+      <a href="" class="uppercase text-gray-300 text-sm"
+        >PROUDLY OPEN SOURCE WITH
+        <span class="icon-heart text-red-600"></span> ON GITHUB</a
+      >
+      <!-- <span class="uppercase block mt-auto text-gray-700">&copy; Copyright 2021</span> -->
+    </footer>
+  </body>
+</html>
