@@ -2,7 +2,7 @@
 
 # Akpors-Must-Rest
 
-Curalating and RESTifing Akpors funny Legacies :laughing:
+Curalating and RESTifing Akpors funny legacies :laughing:
 
 **LIVE:** https://akpors-must-rest.herokuapp.com
 
