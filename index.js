@@ -4,14 +4,14 @@ const PORT = process.env.PORT || 5000
 const path = require('path')
 const { CONFIG_API_ROUTE, CONFIG_ENABLE_FRONTEND } = require('./config')
 
-const isDevelopmemt = process.env.NODE_ENV == 'development'
+const isProduction = process.env.NODE_ENV == 'production'
 const publicPath = path.join(__dirname, 'frontend', 'dist')
 
 const app = express()
 
-// force HTTPS - for heroku
+// Redirecting HTTP to HTTPS - for heroku
 app.all('*', (req, res, next) => {
-  if (!isDevelopmemt && req.headers['x-forwarded-proto'] != 'https') {
+  if (isProduction && req.headers['x-forwarded-proto'] != 'https') {
     res.redirect('https://' + req.headers.host + req.url)
   } else {
     next()
@@ -39,4 +39,5 @@ app.get('*', handle404)
 
 app.listen(PORT, () => {
   console.log(`Server started at port ${PORT}`)
+  console.log(`Production: ${isProduction}`)
 })
