@@ -21,7 +21,11 @@ module.exports = function () {
   return {
     mode,
     entry: {
-      app: './src/index.js',
+      app: {
+        import: './src/index.js',
+        dependOn: ['vendors'],
+      },
+      vendors: ['axios', 'escape-html', 'html2canvas', 'downloadjs', 'navigo'],
       style: './src/css/main.css',
     },
     output: {
@@ -128,12 +132,12 @@ module.exports = function () {
       new HtmlWebpackPlugin({
         template: 'src/docs.html',
         filename: 'docs.html',
-        excludeChunks: ['app'],
+        excludeChunks: ['app', 'vendors'],
       }),
       new HtmlWebpackPlugin({
         template: 'src/404.html',
         filename: '404.html',
-        excludeChunks: ['app'],
+        excludeChunks: ['app', 'vendors'],
       }),
       new GenerateSW({
         exclude: [/(404|docs)\.html$/],
