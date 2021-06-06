@@ -10,6 +10,9 @@
     "serve-dev": "concurrently \"npm run dev\" \"npm run dev --prefix frontend\"",
     "heroku-postbuild": "npm install --production=false --prefix=frontend && npm run serve-build"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
