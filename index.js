@@ -9,9 +9,17 @@ const publicPath = path.join(__dirname, 'frontend', 'dist')
 
 const app = express()
 
+function isHeroku() {
+  return 'DYNO' in process.env && process.env.PATH.indexOf('heroku') != -1
+}
+
 // Redirecting HTTP to HTTPS - for heroku
 app.all('*', (req, res, next) => {
-  if (isProduction && req.headers['x-forwarded-proto'] != 'https') {
+  if (
+    isProduction &&
+    isHeroku() &&
+    req.headers['x-forwarded-proto'] != 'https'
+  ) {
     res.redirect('https://' + req.headers.host + req.url)
   } else {
     next()
