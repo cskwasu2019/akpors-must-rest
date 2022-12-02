@@ -4,11 +4,11 @@
 
 Curalating and RESTifing Akpors funny legacies :laughing:
 
-**LIVE:** https://akpors-must-rest.herokuapp.com :rocket:
+**LIVE:** ~~https://akpors-must-rest.herokuapp.com~~ :rocket:
 
 ## API Documentation
 
-[View API Documentation](https://akpors-must-rest.herokuapp.com/docs.html)
+[~~View API Documentation~~](https://akpors-must-rest.herokuapp.com/docs.html)
 
 ## Contribute
 
